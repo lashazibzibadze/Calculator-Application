@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\main.cpp(66,14): warning C4100: 'nShowCmd': unreferenced formal parameter
+C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\main.cpp(65,17): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\main.cpp(64,24): warning C4100: 'hPrevInstance': unreferenced formal parameter
+C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\main.cpp(63,20): warning C4100: 'hInstance': unreferenced formal parameter
+C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\main.cpp(125,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\main.cpp(126,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  Generating code
+  1 of 1415 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx12.vcxproj -> C:\Users\Lasha\Desktop\imgui-master\examples\example_win32_directx12\Release\example_win32_directx12.exe
