@@ -120,7 +120,7 @@ int wWinMain(
     //io.Fonts->AddFontFromFileTTF("../../misc/fonts/Cousine-Regular.ttf", 15.0f);
     //ImFont* font = io.Fonts->AddFontFromFileTTF("c:\\Windows\\Fonts\\ArialUni.ttf", 18.0f, nullptr, io.Fonts->GetGlyphRangesJapanese());
     //IM_ASSERT(font != nullptr);
-    io.Fonts->AddFontFromFileTTF("C:\\Users\\Lasha\\Desktop\\imgui-master\\examples\\example_win32_directx12\\PTSans-Regular.ttf", 18.0f);
+    
     // Our state
     bool show_demo_window = true;
     bool show_another_window = false;
